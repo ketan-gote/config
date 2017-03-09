@@ -1,0 +1,4 @@
+configuration:  
+  projectName: productservice
+server:
+  port: 8002
